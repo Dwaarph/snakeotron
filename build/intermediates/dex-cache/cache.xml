@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="D:\Scimson D\Documents\dev\snakeotron\core\build\libs\core-1.0.jar"
+        jumboMode="false"
+        revision="22.0.1"
+        sha1="a03f390aa5623931e5f29aab4ff0a5549bec4251">
+        <dex dex="D:\Scimson D\Documents\dev\snakeotron\android\build\intermediates\pre-dexed\debug\core-1.0-73b3fda5420231a822bec19cd1e87f298a73dec5.jar" />
+    </item>
+
+</items>
